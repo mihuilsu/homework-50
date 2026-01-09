@@ -10,7 +10,7 @@
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://homework-50.vercel.app) *(Coming soon)*
+[View Live Demo](https://homework-50.vercel.app)
 
 ## 📖 Overview
 
@@ -183,7 +183,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
