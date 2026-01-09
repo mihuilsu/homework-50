@@ -10,7 +10,7 @@
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://homework-50.vercel.app)
+[View Live Demo](https://homework-50-nine.vercel.app)
 
 ## 📖 Overview
 
